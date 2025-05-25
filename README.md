@@ -1,6 +1,8 @@
 # Trading Bot
 
-A simple cryptocurrency trading bot project with a React frontend and Flask backend that interacts with the Binance testnet API to place orders.
+This cryptocurrency trading bot features a React frontend and Flask backend that interact with the Binance testnet API to place buy and sell orders. Users can execute trades through an intuitive interface while the backend securely manages order processing and communication with Binance. This project enables testing of automated trading strategies in a risk-free environment.
+
+
 
 ---
 
@@ -50,6 +52,13 @@ This Trading Bot project is designed with a **frontend-backend** architecture:
 5. Frontend displays result to user.
 
 ---
+
+### Output Screenshots
+![image](https://github.com/user-attachments/assets/35a653e5-b01e-430d-b5e2-fd309d997e9a)
+![image](https://github.com/user-attachments/assets/75bfc69a-c1dd-42d2-8d66-055becac5f84)
+![image](https://github.com/user-attachments/assets/7eba8c32-a4fb-46ae-b716-e3fe853b650c)
+
+
 
 ## Setup and Installation
 
